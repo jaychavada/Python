@@ -1,0 +1,4 @@
+i am jay chavada
+This is text file for io operations on python
+jay is $%@$%@ boy he has $%@$%@ physique 
+and also scores $%@$%@ marks in exam
